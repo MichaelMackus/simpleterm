@@ -4,9 +4,9 @@ The goal of this library is to create a cross-platform terminal library that wor
 
   - Linux
   - MacOSx
-  - Windowds
+  - Windows
 
-For POSIX platforms (i.e. non-Windowds) I will be using ANSI escape sequences to control the terminal. On Windows, we will be using Windows-specific calls and libraries (such as the "windows.h" include file).
+For POSIX platforms (i.e. non-Windows) I will be using ANSI escape sequences to control the terminal. On Windows, we will be using Windows-specific calls and libraries (such as the "windows.h" include file).
 
 ## Why Not Curses?
 
