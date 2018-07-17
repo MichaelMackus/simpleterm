@@ -1,0 +1,2 @@
+simpleterm: simpleterm.c
+	mingw32-gcc -o simpleterm.exe simpleterm.c

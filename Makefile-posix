@@ -1,0 +1,2 @@
+simpleterm: simpleterm.c
+	gcc -o simpleterm simpleterm.c
